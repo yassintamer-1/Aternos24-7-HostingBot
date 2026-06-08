@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "VibeNation-Xd2O.aternos.me:21130",
+    "port": 21130,
     "version": "",
     "try-creative": false
   },
